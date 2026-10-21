@@ -1,0 +1,42 @@
+# Pliki wykonywalne
+*.exe
+*.out
+*.app
+
+# Pliki obiektowe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Pliki debugowania
+*.pdb
+*.ilk
+*.idb
+*.gch
+*.pch
+
+# Foldery kompilacji
+build/
+bin/
+out/
+Debug/
+Release/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Pliki tymczasowe i kopie zapasowe
+*.tmp
+*.temp
+*.bak
+*~
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
